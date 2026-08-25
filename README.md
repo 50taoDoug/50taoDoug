@@ -1,4 +1,4 @@
-# Hello, I'm Douglas 👋
+# Hello, I'm Douglas Fernandes 👋
 
 ## Building safer ways to work with AWS
 
@@ -23,7 +23,7 @@ are complete.
 
 ---
 
-## Olá, eu sou o Douglas 👋
+## Olá, eu sou o Douglas Fernandes 👋
 
 ## Criando formas mais seguras de trabalhar com AWS
 
