@@ -17,9 +17,8 @@ I believe useful cloud tooling should be transparent about what it does,
 careful with credentials and runtime data, and supported by reproducible tests
 and practical documentation.
 
-I'm currently preparing projects for future public collaboration. They will be
-shared only after documentation, licensing, security, and sanitization reviews
-are complete.
+I publish selected projects for public collaboration after documentation,
+licensing, security, and sanitization reviews are complete.
 
 ---
 
@@ -43,9 +42,16 @@ Acredito que boas ferramentas para nuvem devem explicar claramente o que
 fazem, tratar credenciais e dados de execução com cuidado e contar com testes
 reproduzíveis e documentação prática.
 
-Estou preparando projetos para futura colaboração pública. Eles serão
-compartilhados somente após revisões de documentação, licença, segurança e
-sanitização.
+Publico projetos selecionados para colaboração após concluir as revisões de
+documentação, licença, segurança e sanitização.
+
+## Support my work / Apoie meu trabalho
+
+If this work is useful to you, you can support its continued development through
+[GitHub Sponsors](https://github.com/sponsors/50taoDoug).
+
+Se este trabalho for útil para você, é possível apoiar sua continuidade pelo
+[GitHub Sponsors](https://github.com/sponsors/50taoDoug).
 
 ## Content notice / Aviso sobre o conteúdo
 
